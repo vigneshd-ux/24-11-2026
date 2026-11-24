@@ -1,0 +1,11 @@
+numpy
+sentence-transformers
+scikit-learn
+openai
+PyMuPDF
+python-docx
+langchain-text-splitters
+fastapi
+uvicorn
+python-multipart
+pytest
